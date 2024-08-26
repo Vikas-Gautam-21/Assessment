@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280183513093",
+    "project_id": "assessment-fc570",
+    "storage_bucket": "assessment-fc570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280183513093:android:045c9e060388309ac4fc6c",
+        "android_client_info": {
+          "package_name": "com.example.assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpn4jY0V0VKnVL8do-GEhFWjBREvZLpYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
